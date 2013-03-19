@@ -1,0 +1,10 @@
+Who directed the movie X?
+When was the movie X released?
+Which star was not in the movie X?
+Which star was in the movie X?
+In which movie the stars X and Y appear together?
+Who directed the star X?
+who did not direct the star X?
+Which star appears in both movies X and Y?
+Which star did not appear in the same movie with the star X?
+Who directed the star X in year Y?
